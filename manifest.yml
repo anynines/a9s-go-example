@@ -1,0 +1,9 @@
+---
+applications:
+- name: goexample
+  memory: 128M
+  instances: 1
+  host: goexample
+  domain: de.a9sapp.eu
+  path: .
+  buildpack: https://github.com/michaljemala/cloudfoundry-buildpack-go.git
