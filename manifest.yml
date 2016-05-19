@@ -6,4 +6,3 @@ applications:
   host: goexample
   buildpack: https://github.com/cloudfoundry/go-buildpack.git
   domain: aws.ie.a9sapp.eu
-  command: go-web
