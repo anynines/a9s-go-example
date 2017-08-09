@@ -1,6 +1,6 @@
 {
 	"ImportPath": "github.com/a9s-examples/go-web",
-	"GoVersion": "go1.6",
-	"GodepVersion": "v67",
+	"GoVersion": "go1.8",
+	"GodepVersion": "79.0.0",
 	"Deps": []
 }
